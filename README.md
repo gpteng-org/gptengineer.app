@@ -6,9 +6,9 @@ This is an issues repo. For: **[gptengineer.app](https://gptengineer.app)**, a t
 
 Feel free to react to tickets you prioritize to help us focus on the issues that matter most.
 
-## Usage
+## Why gptengineer.app
 
-If you too have too many ideas and want to have more products, you might have come to the right place.
+Do you have too many ideas and want to have more products? You might have come to the right place.
 
 [gptengineer.app](https://gptengineer.app) enables anyone to:
 
@@ -17,7 +17,7 @@ If you too have too many ideas and want to have more products, you might have co
 ▸ Edit using natural language
 ▸ One-click deploy
 
-You try it [here](https://gptengineer.app).
+The code is not here on github, but you can try it [here](https://gptengineer.app).
 
 
 ## How does gpt-engineer and gptengineer.app relate?
