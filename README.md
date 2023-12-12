@@ -1,11 +1,10 @@
 # gptengineer.app – Rapid prototyping of web apps
 
-
-This is an issues-only repo for gptengineer.app.
-
 Feedback in the shape of issues is invaluable in our mission to reduce the barriers to build 🙂
 
-Feel free to react to the tickets you prioritize to help us focus on the issues that matter most.
+This is an issues repo for gptengineer.app.
+
+Feel free to react to tickets you prioritize to help us focus on the issues that matter most.
 
 ## Usage
 
