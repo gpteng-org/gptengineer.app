@@ -33,7 +33,7 @@ Specifically, the mission
 
 > **Maintain tools that coding agent builders can use and facilitate collaboration in the open source community**.
 
-of [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer) (the community) inspires us.
+of [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer) inspires us.
 
 Part of the revenue from gptengineer.app will be funding a full time role focused on maintaining open source tools for all codegen builders that is in the works.
 
