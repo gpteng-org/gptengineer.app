@@ -1,6 +1,7 @@
-# gptengineer.app – Rapid prototyping of web apps
+# gptengineer.app
+## Rapid prototyping of web apps
 
-Feedback in the shape of issues is invaluable in our mission to reduce the barriers to build 🙂
+Our goal is to reduce the barriers to build. Your feedback in is super helpful it helps us create the best possible experience.
 
 This is an issues repo for gptengineer.app.
 
