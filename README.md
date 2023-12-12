@@ -1,6 +1,6 @@
 # gptengineer.app
 
-Our goal is to reduce the barriers to build. Your feedback in is super helpful it helps us create the best possible experience.
+Our goal is to reduce the barriers to build. Feedback in is super helpful to helps us create the best possible experience.
 
 This is an issues repo. For: **[gptengineer.app](https://gptengineer.app)**, a tool for rapid prototyping of web apps.
 
