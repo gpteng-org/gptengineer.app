@@ -1,4 +1,4 @@
-# gptengineer.app – rapid prototyping of web apps 👶🤖
+# gptengineer.app – rapid prototyping of web apps
 
 
 
@@ -21,7 +21,7 @@ If you too have too many ideas and want to have more products, you might have co
 ▸ Edit using natural language
 ▸ One-click deploy
 
-Got to the [website](https://gptengineer.app) to try it out.
+You try it [here](https://gptengineer.app).
 
 
 ## How does gpt-engineer and gptengineer.app relate?
