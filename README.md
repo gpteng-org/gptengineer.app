@@ -46,4 +46,4 @@ gpt-engineer the CLI tool is goverened by a board that consists of contributors 
 
 We are soon:
 - Adding arbitrary full stack capabilities
-- Announcing the stacked team and company behind gptengineer.app
+- Announcing the stacked team and company behind the product
