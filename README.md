@@ -25,7 +25,7 @@ Creating software product is often a bottleneck to solve frustrating problems.
 
 Our goal is to reduce the barriers to build.
 
-## How does gpt-engineer and gptengineer.app relate?
+## How does [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) and [gptengineer.app](https://gptengineer.app) relate?
 
 The team behind gptengineer.app sprung out of the open source code generation community. We are committed to giving back to it.
 
