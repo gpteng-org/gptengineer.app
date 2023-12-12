@@ -1,4 +1,6 @@
-# gptengineer.app – rapid prototyping of web apps
+# gptengineer.app – rapid prototyping of web apps 👶🤖
+
+
 
 
 This is an issues-only repo.
