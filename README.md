@@ -39,7 +39,7 @@ Part of the revenue from gptengineer.app will be funding a full time role focuse
 
 The GitHub organisation gpteng-org is created by the original gpt-engineer creator Anton Osika, where gpt-engineer community related projects are collected.
 
-gpt-engineer the CLI tool is steered by an independent board separate from gptengineer.app.
+gpt-engineer the CLI tool is goverened by a board that consists of contributors to it, and per default separate from gptengineer.app.
 
 
 ## What's next
@@ -47,4 +47,3 @@ gpt-engineer the CLI tool is steered by an independent board separate from gpten
 We are soon:
 - Adding arbitrary full stack capabilities
 - Announcing the stacked team and company behind gptengineer.app
-- Announcing initiatives that us and other startups believe will be synergetic to collaborate on
