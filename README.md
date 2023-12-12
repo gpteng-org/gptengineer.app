@@ -31,7 +31,7 @@ The team behind gptengineer.app sprung out of the open source code generation co
 
 Specifically, the mission of [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer) (CLI tool):
 
-**Maintain tools that coding agent builders can use and facilitate collaboration in the open source community**.
+> **Maintain tools that coding agent builders can use and facilitate collaboration in the open source community**.
 
 inspires us.
 
