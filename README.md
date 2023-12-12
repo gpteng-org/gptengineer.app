@@ -8,14 +8,15 @@ Feel free to react to tickets you prioritize to help us focus on the issues that
 
 ## What
 
-Do you have too many ideas and want to have more products? You might have come to the right place.
-
 [gptengineer.app](https://gptengineer.app) enables anyone to:
 
 - Specify what to build
 - AI creates a website and display it
 - Edit using natural language
 - One-click deploy
+
+If you have too many ideas and want to have more products you might have come to the right place in other words.
+
 
 The code is not here on github, but you can try it [here](https://gptengineer.app).
 
