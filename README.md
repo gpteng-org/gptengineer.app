@@ -15,7 +15,7 @@ Do you have too many ideas and want to have more products? You might have come t
 - Specify what to build
 - AI creates a website and display it
 - Edit using natural language
-– One-click deploy
+- One-click deploy
 
 The code is not here on github, but you can try it [here](https://gptengineer.app).
 
