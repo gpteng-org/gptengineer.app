@@ -1,4 +1,4 @@
-# gptengineer.app – a rapid prototyping tool
+# gptengineer.app – a rapid prototyping of web apps
 
 
 This is an issues-only repo.
