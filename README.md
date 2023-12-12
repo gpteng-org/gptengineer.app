@@ -15,11 +15,15 @@ Feel free to react to tickets you prioritize to help us focus on the issues that
 - Edit using natural language
 - One-click deploy
 
-If you have too many ideas and want to have more products you might have come to the right place in other words.
+If you have too many ideas and want to have more products – you might have come to the right place in other words.
 
 
 The code is not here on github, but you can try it [here](https://gptengineer.app).
 
+## Why
+Creating software product is hard and inaccessible. It is often a bottleneck to solve frustrating problems.
+
+Our goal is to reduce the barriers to build.
 
 ## How does gpt-engineer and gptengineer.app relate?
 
