@@ -1,6 +1,5 @@
-# gptengineer.app
+# gptengineer.app – a rapid prototyping tool
 
-**[gptengineer.app](https://gptengineer.app) is a rapid prototyping tool**
 
 This is an issues-only repo.
 
