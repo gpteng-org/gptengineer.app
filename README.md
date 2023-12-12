@@ -1,4 +1,4 @@
-# gptengineer.app – rapid prototyping of web apps
+# gptengineer.app – Rapid prototyping of web apps
 
 
 
@@ -10,7 +10,7 @@ It is invaluable in our mission to build the best possible experience and reduci
 
 Feel free to react to the tickets you prioritize to help us focus on the issues that matter most.
 
-## Using gptengineer.app
+## Usage
 
 If you too have too many ideas and want to have more products, you might have come to the right place.
 
