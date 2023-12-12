@@ -1,6 +1,6 @@
 # gptengineer.app
 
-Our goal is to reduce the barriers to build. Feedback in the shape of bugs or feature requests is super helpful to help us in this.
+Our goal is to create the best experience for rapid prototyping. Feedback in the shape of bugs or feature requests is super helpful to help us in this.
 
 This is an issues repo for: **[gptengineer.app](https://gptengineer.app)**, a tool for rapid prototyping of web apps.
 
