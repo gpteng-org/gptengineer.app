@@ -6,7 +6,7 @@ This is an issues repo. For: **[gptengineer.app](https://gptengineer.app)**, a t
 
 Feel free to react to tickets you prioritize to help us focus on the issues that matter most.
 
-## Why gptengineer.app
+## Why
 
 Do you have too many ideas and want to have more products? You might have come to the right place.
 
