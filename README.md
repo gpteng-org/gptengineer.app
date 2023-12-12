@@ -4,7 +4,7 @@ This is an issues repo for: **[gptengineer.app](https://gptengineer.app)**, a to
 
 Our goal is to create the best experience for rapid prototyping. Feedback in the shape of bugs or feature requests is super helpful.
 
-Feel free to react to tickets you prioritize to help us focus on the issues that matter most.
+Feel free to react to tickets that matter most to you to help us prioritize.
 
 ## What
 
