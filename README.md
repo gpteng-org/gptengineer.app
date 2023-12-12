@@ -21,7 +21,7 @@ If you have too many ideas and want to have more products – you might have com
 The code is not here on github, but you can try it [here](https://gptengineer.app).
 
 ## Why
-Creating software product is hard and inaccessible. It is often a bottleneck to solve frustrating problems.
+Creating software product is difficult and inaccessible. It is often a bottleneck to solve frustrating problems.
 
 Our goal is to reduce the barriers to build.
 
