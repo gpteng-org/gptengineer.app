@@ -35,7 +35,7 @@ Specifically, the mission
 
 of [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer) (the community) inspires us.
 
-Part of the revenue from gptengineer.app will be funding a full time role focused on maintaining open source tools for all codegen builders.
+Part of the revenue from gptengineer.app will be funding a full time role focused on maintaining open source tools for all codegen builders that is in the works.
 
 The GitHub organisation gpteng-org is created by the original gpt-engineer creator Anton Osika, where gpt-engineer community related projects are collected.
 
