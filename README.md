@@ -29,11 +29,11 @@ Our goal is to reduce the barriers to build.
 
 The team behind gptengineer.app sprung out of the open source code generation community. We are committed to giving back to it.
 
-Specifically, the mission of [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer) (the community):
+Specifically, the mission
 
 > **Maintain tools that coding agent builders can use and facilitate collaboration in the open source community**.
 
-inspires us.
+of [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer) (the community) inspires us.
 
 Part of the revenue from gptengineer.app will be funding a full time role focused on maintaining open source tools for all codegen builders.
 
