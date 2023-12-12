@@ -2,7 +2,7 @@
 
 Our goal is to reduce the barriers to build. Feedback in the shape of bugs or feature requests is super helpful to helps us create the best possible experience. 
 
-This is an issues repo. For: **[gptengineer.app](https://gptengineer.app)**, a tool for rapid prototyping of web apps.
+This is an issues repo for: **[gptengineer.app](https://gptengineer.app)**, a tool for rapid prototyping of web apps.
 
 Feel free to react to tickets you prioritize to help us focus on the issues that matter most.
 
