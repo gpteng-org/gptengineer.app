@@ -20,7 +20,7 @@ If you have too many ideas and want to have more products – you have come to t
 The code is not here on github, but on [gptengineer.app](https://gptengineer.app).
 
 ## Relationship with gpt-engineer
-gptengineer.app sprung out of the open source code project gpt-engineer. The projects are still connected:
+gptengineer.app sprung out of the open source code project [gpt-engineer](https://github.com/AntonOsika/gpt-engineer). The projects are still connected:
 - Governance: gpt-engineer is an independent entity, [governed by a board of its contributors](https://github.com/AntonOsika/gpt-engineer/blob/main/GOVERNANCE.md)
 - Continued Support: A portion of gptengineer.app’s revenue will fund a full-time role and infrastructure for maintaining open-source tools for code generation
 
