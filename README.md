@@ -1,3 +1,6 @@
+# Now lives at: [github.com/gpt-engineer-org/gptengineer.app](github.com/gpt-engineer-org/gptengineer.app)
+
+
 # gptengineer.app
 
 This is an issues repo for: **[gptengineer.app](https://gptengineer.app)**
