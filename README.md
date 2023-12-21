@@ -1,4 +1,4 @@
-# Moved to: [github.com/gpt-engineer-org/gptengineer.app](github.com/gpt-engineer-org/gptengineer.app)
+# Moved to: [gpt-engineer-org/gptengineer.app](github.com/gpt-engineer-org/gptengineer.app)
 
 
 # gptengineer.app
