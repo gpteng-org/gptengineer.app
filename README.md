@@ -18,31 +18,16 @@ Feel free to react to tickets that matter most to you to help us prioritize.
 - Edit using natural language
 - One-click deploy
 
-If you have too many ideas and want to have more products – you might have come to the right place in other words.
-
+If you have too many ideas and want to have more products – you have come to the right place.
 
 The code is not here on github, but on [gptengineer.app](https://gptengineer.app).
 
-## Why
-Creating software product is often a bottleneck to solve frustrating problems.
-
-Our goal is to reduce the barriers to build.
-
-## How does [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) and [gptengineer.app](https://gptengineer.app) relate?
-
-The team behind gptengineer.app sprung out of the open source code generation community. We are committed to giving back to it.
-
-Specifically, the mission
-
-> **Maintain tools that coding agent builders can use and facilitate collaboration in the open source community**.
-
-of [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer) inspires us.
-
-Part of the revenue from gptengineer.app will be funding a full time role focused on maintaining open source tools for all codegen builders that is in the works.
+## Relationship with gpt-engineer
+gptengineer.app sprung out of the open source code project [gpt-engineer](https://github.com/AntonOsika/gpt-engineer). The projects are still connected:
+- Governance: gpt-engineer is an independent entity, [governed by a board of its contributors](https://github.com/AntonOsika/gpt-engineer/blob/main/GOVERNANCE.md)
+- Continued Support: A portion of gptengineer.app’s revenue will fund a full-time role and infrastructure for maintaining open-source tools for code generation
 
 The GitHub organisation gpteng-org is created by the original gpt-engineer creator Anton Osika, where gpt-engineer community related projects are collected.
-
-gpt-engineer the CLI tool is goverened by a board that consists of contributors to it, and per default separate from gptengineer.app.
 
 
 ## What's next
